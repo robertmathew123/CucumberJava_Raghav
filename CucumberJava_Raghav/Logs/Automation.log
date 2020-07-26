@@ -1,0 +1,30 @@
+
+
+[INFO ] 2020-07-26 12:06:02.733 [main] LoginSteps - Opening URL: https://example.testproject.io/web/
+[INFO ] 2020-07-26 12:06:03.001 [main] LoginSteps - User entered the username and password
+[INFO ] 2020-07-26 12:06:03.104 [main] LoginSteps - User clicked on login button
+[INFO ] 2020-07-26 12:06:03.109 [main] LoginSteps - User navigated to home page
+[INFO ] 2020-07-26 12:06:12.331 [main] LoginSteps - Opening URL: https://example.testproject.io/web/
+[INFO ] 2020-07-26 12:06:12.577 [main] LoginSteps - User entered the username and password
+[INFO ] 2020-07-26 12:06:12.671 [main] LoginSteps - User clicked on login button
+[INFO ] 2020-07-26 12:06:12.674 [main] LoginSteps - User navigated to home page
+[INFO ] 2020-07-26 12:06:24.981 [main] LoginSteps - Opening URL: https://example.testproject.io/web/
+[INFO ] 2020-07-26 12:06:26.291 [main] LoginSteps - User entered the username and password
+[INFO ] 2020-07-26 12:06:26.403 [main] LoginSteps - User clicked on login button
+[INFO ] 2020-07-26 12:06:26.408 [main] LoginSteps - User navigated to home page
+[INFO ] 2020-07-26 12:06:37.199 [main] LoginSteps - Opening URL: https://example.testproject.io/web/
+[INFO ] 2020-07-26 12:06:37.625 [main] LoginSteps - User entered the username and password
+[INFO ] 2020-07-26 12:06:37.720 [main] LoginSteps - User clicked on login button
+[INFO ] 2020-07-26 12:06:37.722 [main] LoginSteps - User navigated to home page
+[INFO ] 2020-07-26 12:06:46.716 [main] LoginSteps - Opening URL: https://example.testproject.io/web/
+[INFO ] 2020-07-26 12:06:47.141 [main] LoginSteps - User entered the username and password
+[INFO ] 2020-07-26 12:06:47.263 [main] LoginSteps - User clicked on login button
+[INFO ] 2020-07-26 12:06:47.267 [main] LoginSteps - User navigated to home page
+[INFO ] 2020-07-26 12:06:56.170 [main] LoginSteps - Opening URL: https://example.testproject.io/web/
+[INFO ] 2020-07-26 12:06:56.562 [main] LoginSteps - User entered the username and password
+[INFO ] 2020-07-26 12:06:56.653 [main] LoginSteps - User clicked on login button
+[INFO ] 2020-07-26 12:06:56.658 [main] LoginSteps - User navigated to home page
+[INFO ] 2020-07-26 12:07:05.633 [main] LoginSteps - Opening URL: https://example.testproject.io/web/
+[INFO ] 2020-07-26 12:07:06.046 [main] LoginSteps - User entered the username and password
+[INFO ] 2020-07-26 12:07:06.156 [main] LoginSteps - User clicked on login button
+[INFO ] 2020-07-26 12:07:06.163 [main] LoginSteps - User navigated to home page
